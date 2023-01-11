@@ -1,0 +1,11 @@
+Passo 1: Importação da base de dados
+Passo 2: Visualizar a base de dados
+         - Entender as informações que você tem disponível
+         - Descobrir as cagadas da base de dados
+Passo 3: Tratamento de dados
+Passo 4: Análise Inicial
+Passo 5: Análise detlahada - descobrir as causas do cancelamento 
+
+DICA:
+- Informação que não ajuda, atrapalha, ou seja, se a coluna não serve, remova!
+- os gráficos em python sempre são criados em duas etapas (cria e exibe)

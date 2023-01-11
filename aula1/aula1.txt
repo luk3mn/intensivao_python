@@ -1,0 +1,19 @@
+### Aula 1
+
+- pyoutogui.click -> clicar
+- pyoutogui.write -> escrever
+- pyoutogui.press -> precionar
+- pyoutogui.hotkey -> atalho
+
+Escrever o passo a passo do que deve ser feito!
+
+- Passo 1:  Entrar no sistema da empresa (link do drive)
+- Passo 2: Navegar até o local do relatório (entrar na pasta exportar)
+- Passo 3: Exportar o relatório (fazer o download)
+- Passo 4: Calcular os indicadores (faturamento e quantidade de produtos)
+- Passo 5: Enviar um e-mail para a diretoria
+
+Dica
+- Sempre que passar o caminho do arquivo de dados, utilizar o 'r' de 'raw' para entender 
+  o texto 'cru' que foi passado.
+  Ex: tabela = pandas.read_excel(r"C:\Users\nome\Downloads\nome_arquivo.xlsx")
