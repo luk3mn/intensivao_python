@@ -1,0 +1,1 @@
+- Correlação vai de 0 a 1 -> sigfica, o ninel que de relação de uma variável com outra
